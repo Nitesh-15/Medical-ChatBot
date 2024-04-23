@@ -1,5 +1,5 @@
 numpy
 pandas
-pickle
+
 streamlit
 PIL
